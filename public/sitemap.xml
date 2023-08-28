@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+            <loc>https://landings-demo.vercel.app/</loc>
+      </url>
+      <url>
+            <loc>https://landings-demo.vercel.app/conocenos</loc>
+      </url>
+      <url>
+            <loc>https://landings-demo.vercel.app/servicios</loc>
+      </url>
+      <url>
+            <loc>https://landings-demo.vercel.app/contacto</loc>
+      </url>
+      <url>
+            <loc>https://landings-demo.vercel.app/aviso-legal</loc>
+      </url>
+      <url>
+            <loc>https://landings-demo.vercel.app/politica-de-privacidad</loc>
+      </url>
+      <url>
+            <loc>https://landings-demo.vercel.app/politica-de-cookies</loc>
+      </url>
+      <url>
+            <loc>https://landings-demo.vercel.app/robots.txt</loc>
+      </url>
+</urlset>

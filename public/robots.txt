@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://landings-demo.vercel.app/sitemap.xml

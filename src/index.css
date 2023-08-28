@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.clip-path {
+  -webkit-clip-path: polygon(0 0,54% 0,36% 100%,0% 100%);
+  clip-path: polygon(0 0,54% 0,36% 100%,0% 100%);
+}
